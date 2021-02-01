@@ -1,4 +1,4 @@
-# Project 5 - COVID-19: Symptoms and Predictions
+# COVID-19: Symptoms and Predictions
 
 #### By David Cortes, Nao Kawakami, Peter Yonka, Ryan Scribner
 
